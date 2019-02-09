@@ -1,0 +1,17 @@
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Test2.deps.json
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Test2.runtimeconfig.json
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Test2.runtimeconfig.dev.json
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Test2.dll
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Test2.pdb
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Module2.dll
+C:\TestCoverlet\Test2\bin\Debug\netcoreapp2.1\Module2.pdb
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.csprojAssemblyReference.cache
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CoreCompileInputs.cache
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.AssemblyInfoInputs.cache
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.AssemblyInfo.cs
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CopyComplete
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.dll
+C:\TestCoverlet\Test2\obj\Debug\netcoreapp2.1\Test2.pdb

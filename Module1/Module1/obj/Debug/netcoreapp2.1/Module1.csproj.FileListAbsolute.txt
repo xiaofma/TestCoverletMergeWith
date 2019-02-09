@@ -1,0 +1,11 @@
+C:\TestCoverlet\Module1\Module1\bin\Debug\netcoreapp2.1\Module1.deps.json
+C:\TestCoverlet\Module1\Module1\bin\Debug\netcoreapp2.1\Module1.runtimeconfig.json
+C:\TestCoverlet\Module1\Module1\bin\Debug\netcoreapp2.1\Module1.runtimeconfig.dev.json
+C:\TestCoverlet\Module1\Module1\bin\Debug\netcoreapp2.1\Module1.dll
+C:\TestCoverlet\Module1\Module1\bin\Debug\netcoreapp2.1\Module1.pdb
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.csprojAssemblyReference.cache
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.csproj.CoreCompileInputs.cache
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.AssemblyInfoInputs.cache
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.AssemblyInfo.cs
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.dll
+C:\TestCoverlet\Module1\Module1\obj\Debug\netcoreapp2.1\Module1.pdb

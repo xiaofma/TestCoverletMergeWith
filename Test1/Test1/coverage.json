@@ -1,0 +1,28 @@
+{
+  "Module1.dll": {
+    "C:\\TestCoverlet\\Module1\\Module1\\Program.cs": {
+      "Module1.Program": {
+        "System.Void Module1.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\TestCoverlet\\Module1\\Module1\\Type1.cs": {
+      "Module1.Type1": {
+        "System.Int32 Module1.Type1::Add(System.Int32,System.Int32)": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "12": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
